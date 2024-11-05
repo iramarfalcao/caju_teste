@@ -2,7 +2,7 @@
 ___
 
 ### Como foi feito:
-A solução do desafio foi contruida utilizando:
+A solução do desafio foi construida utilizando:
 - Quakus
 - Kotlin
 - Postgres
