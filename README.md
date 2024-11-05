@@ -23,7 +23,7 @@ Foi utilizado o `Flyway` para inserir dados iniciais de contas se utilizando das
 
 O projeto foi dockerizado e disponibilizado sua imagem via `Docker Hub` para facilitar os testes, bem como uma massa de
 dados inicial.
-Por ter depenndência do postgres, foi criado na raiz do projeto um `docker-compose.yml` que contém uma imagem do
+Por ter dependência do postgres, foi criado na raiz do projeto um `docker-compose.yml` que contém uma imagem do
 postgres e a imagem do projeto.
 Portanto, bastando executar o comando abaixo:
 
